@@ -1,7 +1,7 @@
 ## Hi there, I'm Iksar Wahyu Saputra 👋
 
 [^1]:
-informatic engineering student
+Informatic Engineering Student | Data Scientist Cohort DBS Foundation Coding Camp 
 
 <!--
 **Iksar-Wahyu/Iksar-Wahyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
