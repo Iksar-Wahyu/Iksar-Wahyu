@@ -1,7 +1,12 @@
-## Hi there, I'm Iksar Wahyu Saputra 👋
-
-[^1]:
-Informatic Engineering Student | Data Scientist Cohort DBS Foundation Coding Camp 
+<div align="center">
+  <h1 >
+    ## Hi there, I'm Iksar Wahyu Saputra 👋
+  </h1>
+  <p>
+  [^1]:
+  Informatic Engineering Student | Data Scientist Cohort DBS Foundation Coding Camp 
+  </p>
+</div>
 
 ---
 
