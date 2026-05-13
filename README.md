@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Iksar Wahyu Saputra 👋
 
+[^1] informatic engineering student
 <!--
 **Iksar-Wahyu/Iksar-Wahyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
