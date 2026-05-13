@@ -12,8 +12,8 @@
 <div>
   <h3>:fortune_cookie: About Me</h3>
   <ul>
-    <li></li>
-    <li></li>
+    <li>:mortar_board: undergraduated student at Ibn Khaldun Bogor, Majoring in Informatic Engineering</li>
+    <li>:house: Based in Kota Bogor, Indonesia</li>
     <li></li>
     <li></li>
     <li></li>
