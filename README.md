@@ -1,6 +1,6 @@
 <div align="center">
   <h1 >
-    ## Hi there, I'm Iksar Wahyu Saputra 👋
+      Hi there, I'm Iksar Wahyu Saputra 👋
   </h1>
   <p>
     Informatic Engineering Student | Data Scientist Cohort DBS Foundation Coding Camp 
@@ -9,6 +9,16 @@
 
 ---
 
+<div>
+  <h3>:fortune_cookie: About Me</h3>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
 <!--
 **Iksar-Wahyu/Iksar-Wahyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
